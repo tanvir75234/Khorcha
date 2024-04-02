@@ -36,7 +36,7 @@ $(document).ready( function () {
 
 $(function(){
     $('.datepicker').datepicker({
-       format: 'yyyy-mm-dd',
+       format: 'mm-dd-yyyy',
        todayHighlight: 'true',
      });
  });
